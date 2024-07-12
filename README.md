@@ -14,7 +14,7 @@ https://investorrelations.sgx.com/financial-information/financial-results
 
 ### Highlevel Design
 
-<img src="https://github.com/xlsi/Langchain-Based-Document-Retrieval-Tool/blob/main/doc/document_extarction.png" width="2000" height="600">
+<img src="https://github.com/xlsi/Langchain-Based-Document-Retrieval-Tool/blob/main/doc/document_extarction.png" width="2000" height="400">
 
 
 Extraction is when you use LLMs to extract structured information from unstructured text.
